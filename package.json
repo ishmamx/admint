@@ -1,0 +1,34 @@
+{
+  "name": "admint",
+  "version": "1.0.1",
+  "description": "Open source admin dashboard template",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yookits/admint.git"
+  },
+  "keywords": [
+    "admin",
+    "dashboard",
+    "framework",
+    "template",
+    "css",
+    "sass",
+    "responsive",
+    "control-panel",
+    "admin-dashboard",
+    "dashboard-template",
+    "bootstrap-admin",
+    "bootstrap-dashboard",
+    "theme"
+  ],
+  "author": "YooKits",
+  "license": "CC by 4.0",
+  "bugs": {
+    "url": "https://github.com/yookits/admint/issues"
+  },
+  "homepage": "https://github.com/yookits/admint#readme"
+}
