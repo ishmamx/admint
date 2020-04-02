@@ -1137,13 +1137,15 @@
     margin-bottom: 2px;
   }
 }
+
 .yoo-message-area .yoo-nofify-list.yoo-style1 .yoo-nofify-text {
-    .yoo-notify-time {
-      position: absolute;
-      top: 2px;
-      right: 0;
-    }
+  .yoo-notify-time {
+    position: absolute;
+    top: 2px;
+    right: 0;
+  }
 }
+
 .yoo-nofify-list.yoo-style2 {
   display: flex;
   flex-wrap: wrap;
@@ -1383,6 +1385,14 @@
 /* End Search Area */
 /* Start Sidebar heading Toggle Function */
 .yoo-sidebar-active {
+  .yoo-add {
+    display: none;
+  }
+
+  .yoo-add+.yoo-sidebarheader-in {
+    height: 100% !important;
+  }
+
   .yoo-content.yoo-style1 {
     padding-left: 80px;
   }

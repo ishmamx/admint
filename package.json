@@ -1,6 +1,6 @@
 {
   "name": "admint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open source admin dashboard template",
   "main": "assets/js/main.js",
   "scripts": {
