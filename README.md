@@ -10,7 +10,7 @@ Looking more epic demos & tons of features? Go Pro!
 Looking more epic demos & tons of features? Go Pro!
 Pro version comes with even more demos and features. You can literally build any web app ever. Just take a look from here: https://yookits.com/demo/admint-pro/
 
-!["AdmintPro Preview"](https://mk0yookitssc9m5vjdvo.kinstacdn.com/wp-content/uploads/2020/02/asd.png "AdmintPro Preview")
+!["AdmintPro Preview"](https://github.com/yookits/admint/blob/master/assets/img/admint-litee.png?raw=true "AdmintPro Preview")(https://yookits.com/demo/admint)**
 
 Installation
 ------------
