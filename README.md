@@ -7,7 +7,6 @@ Admint is the swiss army knife of the dashboard templates. You can create applic
 
 Looking more epic demos & tons of features? Go Pro!
 ------------------------------
-Looking more epic demos & tons of features? Go Pro!
 Pro version comes with even more demos and features. You can literally build any web app ever. Just take a look from here: https://yookits.com/demo/admint-pro/
 
 !["AdmintPro Preview"](https://github.com/yookits/admint/blob/master/assets/img/admint-litee.png?raw=true "AdmintPro Preview")
